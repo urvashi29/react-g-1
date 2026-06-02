@@ -15,7 +15,7 @@ const ProductItem = ({ product, onAdd }) => {
 };
 
 const ProductList = ({ products, onAdd }) => {
-  console.log("product list");
+  // console.log("product list");
 
   return (
     <>
