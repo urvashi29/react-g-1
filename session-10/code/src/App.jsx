@@ -10,3 +10,13 @@ const App = () => {
 };
 
 export default App;
+
+// Build APP with AI
+// craete a basic e-commerce website
+// product display
+// add to cart
+// add to wishlist
+// technical requirements
+// color theme
+// API integration
+// use simple google authentication (firebase )
